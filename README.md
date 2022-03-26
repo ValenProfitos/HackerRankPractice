@@ -14,4 +14,5 @@
        - Write a Function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem?h_r=next-challenge&h_v=zen&isFullScreen=false) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/01.Introduction/005.%20Write%20a%20function.py) | Score: 10 <br/>
 	   - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/01.Introduction/006%20Print%20Function.py) | Score:20 <br/>
 	   - Python if-else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/01.Introduction/007.%20Python%20If-Else.py) | Score: 10 <br/>
+	  02. Basic Data Types <br/>
 	   - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/02.%20Basic%20Data%20Types/001.List%20Comprehensions.py) | Score: 10 <br/>
