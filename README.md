@@ -16,3 +16,4 @@
 	   - Python if-else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/01.Introduction/007.%20Python%20If-Else.py) | Score: 10 <br/>
 	  02. Basic Data Types <br/>
 	   - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/02.%20Basic%20Data%20Types/001.List%20Comprehensions.py) | Score: 10 <br/>
+	   - Find the runner-up score |[Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) |[Solution](https://github.com/ValenProfitos/HackerRankPractice/blob/main/Python/02.%20Basic%20Data%20Types/002.%20Find%20the%20runner-up%20score.py) | Score: 10  <br/>
